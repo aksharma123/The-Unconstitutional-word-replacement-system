@@ -1,0 +1,116 @@
+bloodshed,conflict
+betrayal,treason
+bloody,reddish
+ashamed,guiltyabused
+abused,misuse
+Baloney,nonsense
+batshit creazy,insane
+beaten with shoes,whipped with shoes
+bikies,jumped by bikies
+bossypants,rulled by a daspot
+bullshit,flooded with lies
+chamacha,an era of stooges
+chamchagiri,disgust people
+cheat,defraud
+chalas,underlings
+childishness,immaturity
+chhokra,unpermitted
+circumventing,evading
+clouseau,incompetent inspector
+conversion,transformation
+cockroaches,insect
+corrupt,dishonest
+corruption,misconduct
+covid spreader,infector
+coward,weakling
+criminal,law breaker
+crock,twaddle
+crocodile tears,false sympathy
+cruel,savage
+debacle,failure
+deceived,misled
+derogatory,offensive
+disgrace,dishonour
+dodgy,suspecious
+dog,pet
+donkey,mule
+drama,acting
+dump,landfill
+duplicity,deceidfullness
+erroneous,incorrect
+eyewash,deception
+fake,imitation
+false,incorrect
+fabrication,hoax
+fool,simpleton
+foolish,imprudent
+fraud,swindle
+frighten,alarm 
+fudge,manipulate
+gag,restrain
+gaglighting,emotional manipulation
+goons,brutes
+goose,bird
+gossipers,whisperers
+greasy,sleazy
+greed,selfishness
+groper,fondler
+grubby,stand
+gun,firearms
+gundas,goons
+hack,exploit
+heckle,tease
+heckler,trouble maker
+hogwash,drivel
+hooliganism,disorder
+humiliated,demeaned
+hunter,pursuer
+hipocrisy,falsehood
+hypocrite,deceiver
+ignores,overlooks
+illegally,illicitli
+incompetent,unquatified
+interjecting,inserting
+irresponsible,careless
+jackall,carnivore
+jaumblejim,messy
+kickout,ouster
+lack of maturity,immaturity
+liar,fibber
+lie,fib
+lollipops,sweets
+looting,theft
+mafia,syndicate
+mamas,mob
+mate,friend
+Menzies,leader
+mess,disorder
+misaligned,misinformation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
